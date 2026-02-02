@@ -30,6 +30,10 @@ This project is designed to be **beginner to intermediate level** and suitable f
   - DAX measures
   - Interactive dashboards and visual storytelling
 
+   # 📊Dashboard Preview
+
+   ![Dashboard](DASHBOARD%20SCREENSHOT.png)
+
 ---
 
 ## 📊 Key KPIs
