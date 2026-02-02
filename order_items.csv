@@ -1,0 +1,1024 @@
+order_item_id,order_id,item_name,category,price,quantity,Revenue
+1,1,Veg Burger,Burger,203,1,203
+2,2,Wrap,Wraps,207,3,621
+3,2,Fries,Sides,83,2,166
+4,2,Zinger Burger,Burger,382,2,764
+5,3,Wrap,Wraps,100,3,300
+6,3,Zinger Burger,Burger,196,1,196
+7,3,Pepsi,Beverage,221,1,221
+8,4,Zinger Burger,Burger,434,1,434
+9,4,Wrap,Wraps,289,3,867
+10,4,Zinger Burger,Burger,213,3,639
+11,5,Wrap,Wraps,170,2,340
+12,5,Ice Cream,Dessert,125,2,250
+13,5,Pepsi,Beverage,179,1,179
+14,6,Fries,Sides,226,2,452
+15,6,Wrap,Wraps,413,3,1239
+16,7,Zinger Burger,Burger,423,2,846
+17,8,Pepsi,Beverage,294,2,588
+18,8,Ice Cream,Dessert,162,2,324
+19,9,Fries,Sides,354,1,354
+20,9,Veg Burger,Burger,252,3,756
+21,9,Pepsi,Beverage,142,1,142
+22,10,Veg Burger,Burger,200,3,600
+23,10,Wrap,Wraps,199,2,398
+24,10,Coke,Beverage,396,1,396
+25,11,Zinger Burger,Burger,399,1,399
+26,11,Ice Cream,Dessert,387,1,387
+27,12,Fries,Sides,388,3,1164
+28,12,Zinger Burger,Burger,413,2,826
+29,13,Veg Burger,Burger,147,2,294
+30,14,Coke,Beverage,189,2,378
+31,15,Ice Cream,Dessert,206,3,618
+32,16,Ice Cream,Dessert,141,1,141
+33,16,Ice Cream,Dessert,237,3,711
+34,16,Fries,Sides,143,2,286
+35,17,Coke,Beverage,334,1,334
+36,17,Coke,Beverage,383,1,383
+37,18,Veg Burger,Burger,280,1,280
+38,18,Zinger Burger,Burger,403,3,1209
+39,18,Zinger Burger,Burger,295,1,295
+40,19,Wrap,Wraps,411,2,822
+41,20,Wrap,Wraps,94,1,94
+42,20,Fries,Sides,105,1,105
+43,21,Ice Cream,Dessert,100,3,300
+44,21,Pepsi,Beverage,355,1,355
+45,22,Fries,Sides,211,3,633
+46,23,Veg Burger,Burger,107,2,214
+47,23,Veg Burger,Burger,146,2,292
+48,23,Veg Burger,Burger,273,2,546
+49,24,Wrap,Wraps,440,1,440
+50,24,Ice Cream,Dessert,166,2,332
+51,24,Pepsi,Beverage,293,1,293
+52,25,Zinger Burger,Burger,140,2,280
+53,25,Chicken Bucket,Chicken,362,3,1086
+54,26,Zinger Burger,Burger,172,1,172
+55,26,Zinger Burger,Burger,434,2,868
+56,27,Ice Cream,Dessert,316,1,316
+57,27,Coke,Beverage,268,2,536
+58,27,Zinger Burger,Burger,381,1,381
+59,28,Ice Cream,Dessert,122,1,122
+60,28,Chicken Bucket,Chicken,374,1,374
+61,29,Zinger Burger,Burger,271,2,542
+62,30,Fries,Sides,389,2,778
+63,30,Zinger Burger,Burger,344,1,344
+64,31,Zinger Burger,Burger,96,1,96
+65,32,Fries,Sides,262,1,262
+66,32,Wrap,Wraps,271,3,813
+67,32,Pepsi,Beverage,226,3,678
+68,33,Wrap,Wraps,125,1,125
+69,34,Ice Cream,Dessert,187,3,561
+70,35,Coke,Beverage,188,1,188
+71,36,Coke,Beverage,169,3,507
+72,37,Coke,Beverage,87,1,87
+73,37,Fries,Sides,253,3,759
+74,38,Coke,Beverage,294,1,294
+75,38,Wrap,Wraps,419,2,838
+76,39,Chicken Bucket,Chicken,403,2,806
+77,39,Zinger Burger,Burger,206,2,412
+78,40,Fries,Sides,318,1,318
+79,41,Veg Burger,Burger,322,3,966
+80,42,Wrap,Wraps,337,3,1011
+81,43,Zinger Burger,Burger,281,2,562
+82,44,Fries,Sides,345,2,690
+83,44,Chicken Bucket,Chicken,130,2,260
+84,44,Zinger Burger,Burger,118,3,354
+85,45,Fries,Sides,196,2,392
+86,45,Coke,Beverage,245,3,735
+87,46,Ice Cream,Dessert,337,1,337
+88,46,Zinger Burger,Burger,347,3,1041
+89,47,Zinger Burger,Burger,390,1,390
+90,47,Wrap,Wraps,436,1,436
+91,47,Pepsi,Beverage,128,3,384
+92,48,Zinger Burger,Burger,358,1,358
+93,48,Pepsi,Beverage,363,1,363
+94,48,Pepsi,Beverage,186,2,372
+95,49,Coke,Beverage,152,1,152
+96,49,Pepsi,Beverage,201,2,402
+97,49,Veg Burger,Burger,443,2,886
+98,50,Fries,Sides,235,3,705
+99,50,Zinger Burger,Burger,142,3,426
+100,50,Ice Cream,Dessert,154,2,308
+101,51,Zinger Burger,Burger,197,1,197
+102,51,Ice Cream,Dessert,246,2,492
+103,51,Ice Cream,Dessert,235,1,235
+104,52,Veg Burger,Burger,135,1,135
+105,52,Zinger Burger,Burger,126,3,378
+106,52,Coke,Beverage,281,2,562
+107,53,Fries,Sides,205,3,615
+108,53,Zinger Burger,Burger,448,2,896
+109,53,Ice Cream,Dessert,404,2,808
+110,54,Zinger Burger,Burger,110,1,110
+111,54,Coke,Beverage,404,2,808
+112,55,Fries,Sides,154,1,154
+113,55,Veg Burger,Burger,233,3,699
+114,55,Pepsi,Beverage,442,3,1326
+115,56,Fries,Sides,385,2,770
+116,56,Fries,Sides,204,3,612
+117,57,Pepsi,Beverage,201,1,201
+118,58,Chicken Bucket,Chicken,203,1,203
+119,59,Wrap,Wraps,213,2,426
+120,59,Veg Burger,Burger,280,1,280
+121,59,Coke,Beverage,156,3,468
+122,60,Pepsi,Beverage,188,2,376
+123,60,Veg Burger,Burger,148,1,148
+124,60,Zinger Burger,Burger,384,1,384
+125,61,Coke,Beverage,421,1,421
+126,61,Fries,Sides,422,3,1266
+127,62,Chicken Bucket,Chicken,433,1,433
+128,62,Fries,Sides,329,1,329
+129,62,Coke,Beverage,100,3,300
+130,63,Veg Burger,Burger,171,3,513
+131,63,Ice Cream,Dessert,204,3,612
+132,63,Coke,Beverage,190,2,380
+133,64,Veg Burger,Burger,352,3,1056
+134,64,Veg Burger,Burger,417,2,834
+135,64,Zinger Burger,Burger,231,2,462
+136,65,Coke,Beverage,420,1,420
+137,65,Zinger Burger,Burger,180,2,360
+138,65,Fries,Sides,143,3,429
+139,66,Chicken Bucket,Chicken,346,2,692
+140,67,Wrap,Wraps,219,2,438
+141,68,Pepsi,Beverage,84,1,84
+142,69,Pepsi,Beverage,91,2,182
+143,70,Fries,Sides,226,2,452
+144,71,Wrap,Wraps,262,2,524
+145,71,Veg Burger,Burger,181,3,543
+146,72,Pepsi,Beverage,295,3,885
+147,73,Fries,Sides,282,1,282
+148,73,Fries,Sides,321,1,321
+149,73,Fries,Sides,298,2,596
+150,74,Wrap,Wraps,318,3,954
+151,74,Coke,Beverage,242,3,726
+152,74,Zinger Burger,Burger,407,1,407
+153,75,Zinger Burger,Burger,448,1,448
+154,76,Wrap,Wraps,373,3,1119
+155,76,Fries,Sides,404,1,404
+156,76,Wrap,Wraps,268,3,804
+157,77,Ice Cream,Dessert,193,2,386
+158,77,Coke,Beverage,293,3,879
+159,77,Fries,Sides,133,2,266
+160,78,Ice Cream,Dessert,205,1,205
+161,78,Ice Cream,Dessert,283,2,566
+162,79,Ice Cream,Dessert,114,2,228
+163,80,Pepsi,Beverage,382,3,1146
+164,81,Chicken Bucket,Chicken,343,2,686
+165,81,Zinger Burger,Burger,406,2,812
+166,81,Wrap,Wraps,146,1,146
+167,82,Coke,Beverage,80,3,240
+168,83,Coke,Beverage,311,1,311
+169,84,Wrap,Wraps,336,3,1008
+170,85,Wrap,Wraps,183,3,549
+171,85,Zinger Burger,Burger,369,2,738
+172,86,Ice Cream,Dessert,339,2,678
+173,86,Wrap,Wraps,437,3,1311
+174,87,Ice Cream,Dessert,338,2,676
+175,87,Veg Burger,Burger,252,2,504
+176,87,Coke,Beverage,140,3,420
+177,88,Pepsi,Beverage,95,2,190
+178,88,Ice Cream,Dessert,224,3,672
+179,88,Chicken Bucket,Chicken,313,2,626
+180,89,Chicken Bucket,Chicken,92,3,276
+181,89,Wrap,Wraps,369,3,1107
+182,90,Ice Cream,Dessert,294,2,588
+183,90,Ice Cream,Dessert,134,3,402
+184,90,Pepsi,Beverage,300,3,900
+185,91,Wrap,Wraps,400,1,400
+186,92,Pepsi,Beverage,348,1,348
+187,93,Coke,Beverage,354,1,354
+188,93,Zinger Burger,Burger,293,3,879
+189,93,Zinger Burger,Burger,262,3,786
+190,94,Chicken Bucket,Chicken,89,2,178
+191,94,Veg Burger,Burger,227,2,454
+192,95,Chicken Bucket,Chicken,445,1,445
+193,95,Ice Cream,Dessert,414,2,828
+194,96,Wrap,Wraps,339,1,339
+195,96,Fries,Sides,343,2,686
+196,97,Wrap,Wraps,369,2,738
+197,97,Ice Cream,Dessert,433,3,1299
+198,97,Fries,Sides,440,1,440
+199,98,Zinger Burger,Burger,320,2,640
+200,98,Coke,Beverage,233,2,466
+201,98,Ice Cream,Dessert,293,2,586
+202,99,Wrap,Wraps,167,2,334
+203,100,Pepsi,Beverage,404,1,404
+204,101,Veg Burger,Burger,218,1,218
+205,102,Fries,Sides,226,1,226
+206,103,Chicken Bucket,Chicken,179,2,358
+207,103,Wrap,Wraps,386,1,386
+208,103,Fries,Sides,256,2,512
+209,104,Coke,Beverage,265,3,795
+210,104,Chicken Bucket,Chicken,395,3,1185
+211,104,Zinger Burger,Burger,199,3,597
+212,105,Wrap,Wraps,102,1,102
+213,105,Coke,Beverage,314,1,314
+214,106,Zinger Burger,Burger,103,3,309
+215,107,Veg Burger,Burger,360,2,720
+216,108,Coke,Beverage,419,3,1257
+217,109,Veg Burger,Burger,372,2,744
+218,109,Zinger Burger,Burger,180,2,360
+219,109,Ice Cream,Dessert,438,1,438
+220,110,Wrap,Wraps,225,2,450
+221,110,Fries,Sides,315,1,315
+222,110,Veg Burger,Burger,92,2,184
+223,111,Coke,Beverage,179,3,537
+224,112,Ice Cream,Dessert,216,1,216
+225,112,Pepsi,Beverage,389,2,778
+226,113,Veg Burger,Burger,188,3,564
+227,114,Coke,Beverage,241,1,241
+228,115,Veg Burger,Burger,353,3,1059
+229,115,Veg Burger,Burger,405,1,405
+230,115,Veg Burger,Burger,389,2,778
+231,116,Veg Burger,Burger,100,3,300
+232,117,Coke,Beverage,392,1,392
+233,117,Pepsi,Beverage,133,2,266
+234,117,Coke,Beverage,123,3,369
+235,118,Chicken Bucket,Chicken,125,1,125
+236,119,Pepsi,Beverage,359,2,718
+237,120,Zinger Burger,Burger,435,2,870
+238,120,Chicken Bucket,Chicken,242,1,242
+239,121,Wrap,Wraps,181,1,181
+240,121,Veg Burger,Burger,261,1,261
+241,121,Fries,Sides,307,2,614
+242,122,Pepsi,Beverage,400,3,1200
+243,122,Veg Burger,Burger,351,3,1053
+244,123,Ice Cream,Dessert,171,2,342
+245,124,Pepsi,Beverage,260,2,520
+246,124,Fries,Sides,254,2,508
+247,124,Zinger Burger,Burger,241,1,241
+248,125,Wrap,Wraps,303,1,303
+249,125,Zinger Burger,Burger,112,3,336
+250,126,Wrap,Wraps,323,1,323
+251,126,Pepsi,Beverage,91,3,273
+252,127,Veg Burger,Burger,214,3,642
+253,128,Zinger Burger,Burger,239,3,717
+254,128,Ice Cream,Dessert,304,3,912
+255,128,Zinger Burger,Burger,124,2,248
+256,129,Veg Burger,Burger,183,3,549
+257,129,Coke,Beverage,236,2,472
+258,129,Chicken Bucket,Chicken,284,3,852
+259,130,Veg Burger,Burger,297,2,594
+260,130,Ice Cream,Dessert,198,1,198
+261,130,Ice Cream,Dessert,175,2,350
+262,131,Wrap,Wraps,367,2,734
+263,131,Zinger Burger,Burger,96,3,288
+264,131,Chicken Bucket,Chicken,278,2,556
+265,132,Chicken Bucket,Chicken,104,2,208
+266,133,Coke,Beverage,418,3,1254
+267,133,Coke,Beverage,260,3,780
+268,133,Wrap,Wraps,400,1,400
+269,134,Veg Burger,Burger,181,2,362
+270,134,Veg Burger,Burger,136,3,408
+271,134,Wrap,Wraps,253,2,506
+272,135,Zinger Burger,Burger,449,1,449
+273,135,Veg Burger,Burger,387,1,387
+274,136,Ice Cream,Dessert,133,1,133
+275,136,Chicken Bucket,Chicken,305,3,915
+276,136,Ice Cream,Dessert,140,2,280
+277,137,Pepsi,Beverage,373,2,746
+278,138,Pepsi,Beverage,289,2,578
+279,138,Chicken Bucket,Chicken,381,1,381
+280,139,Pepsi,Beverage,82,2,164
+281,139,Pepsi,Beverage,172,1,172
+282,139,Fries,Sides,187,1,187
+283,140,Ice Cream,Dessert,410,1,410
+284,141,Fries,Sides,430,2,860
+285,141,Zinger Burger,Burger,351,3,1053
+286,142,Chicken Bucket,Chicken,411,3,1233
+287,142,Coke,Beverage,168,2,336
+288,142,Fries,Sides,390,2,780
+289,143,Chicken Bucket,Chicken,233,2,466
+290,143,Veg Burger,Burger,187,3,561
+291,144,Fries,Sides,204,2,408
+292,145,Fries,Sides,378,1,378
+293,146,Chicken Bucket,Chicken,326,1,326
+294,146,Chicken Bucket,Chicken,87,2,174
+295,147,Pepsi,Beverage,400,3,1200
+296,147,Wrap,Wraps,160,3,480
+297,147,Veg Burger,Burger,167,2,334
+298,148,Coke,Beverage,165,1,165
+299,148,Coke,Beverage,153,1,153
+300,149,Wrap,Wraps,250,1,250
+301,149,Ice Cream,Dessert,249,2,498
+302,150,Ice Cream,Dessert,170,2,340
+303,150,Coke,Beverage,234,1,234
+304,150,Coke,Beverage,443,1,443
+305,151,Chicken Bucket,Chicken,307,1,307
+306,152,Ice Cream,Dessert,326,3,978
+307,152,Chicken Bucket,Chicken,208,1,208
+308,153,Wrap,Wraps,320,3,960
+309,154,Pepsi,Beverage,242,3,726
+310,155,Wrap,Wraps,170,2,340
+311,156,Zinger Burger,Burger,353,1,353
+312,156,Veg Burger,Burger,428,1,428
+313,157,Chicken Bucket,Chicken,403,1,403
+314,157,Chicken Bucket,Chicken,336,2,672
+315,157,Chicken Bucket,Chicken,444,3,1332
+316,158,Fries,Sides,282,1,282
+317,158,Zinger Burger,Burger,272,1,272
+318,159,Chicken Bucket,Chicken,316,1,316
+319,159,Coke,Beverage,147,1,147
+320,160,Ice Cream,Dessert,228,3,684
+321,160,Veg Burger,Burger,361,3,1083
+322,160,Fries,Sides,188,3,564
+323,161,Wrap,Wraps,406,2,812
+324,161,Ice Cream,Dessert,212,1,212
+325,161,Pepsi,Beverage,211,3,633
+326,162,Veg Burger,Burger,321,1,321
+327,162,Coke,Beverage,120,3,360
+328,163,Pepsi,Beverage,403,2,806
+329,163,Wrap,Wraps,274,3,822
+330,163,Ice Cream,Dessert,362,3,1086
+331,164,Veg Burger,Burger,103,2,206
+332,165,Chicken Bucket,Chicken,260,3,780
+333,165,Coke,Beverage,148,3,444
+334,165,Pepsi,Beverage,260,2,520
+335,166,Zinger Burger,Burger,328,2,656
+336,167,Coke,Beverage,392,2,784
+337,167,Ice Cream,Dessert,182,2,364
+338,168,Coke,Beverage,291,3,873
+339,169,Pepsi,Beverage,382,2,764
+340,169,Fries,Sides,318,1,318
+341,169,Coke,Beverage,422,2,844
+342,170,Pepsi,Beverage,269,1,269
+343,170,Zinger Burger,Burger,191,3,573
+344,171,Pepsi,Beverage,264,2,528
+345,171,Ice Cream,Dessert,126,2,252
+346,171,Veg Burger,Burger,118,2,236
+347,172,Pepsi,Beverage,228,1,228
+348,173,Wrap,Wraps,366,2,732
+349,173,Chicken Bucket,Chicken,111,3,333
+350,173,Chicken Bucket,Chicken,334,2,668
+351,174,Zinger Burger,Burger,218,2,436
+352,175,Zinger Burger,Burger,352,3,1056
+353,175,Zinger Burger,Burger,202,1,202
+354,176,Pepsi,Beverage,320,1,320
+355,177,Zinger Burger,Burger,130,1,130
+356,177,Zinger Burger,Burger,167,2,334
+357,177,Ice Cream,Dessert,350,3,1050
+358,178,Pepsi,Beverage,80,3,240
+359,178,Wrap,Wraps,246,1,246
+360,178,Pepsi,Beverage,392,1,392
+361,179,Fries,Sides,248,1,248
+362,179,Zinger Burger,Burger,220,2,440
+363,180,Veg Burger,Burger,387,1,387
+364,180,Fries,Sides,416,3,1248
+365,181,Veg Burger,Burger,447,3,1341
+366,182,Wrap,Wraps,271,1,271
+367,183,Fries,Sides,350,2,700
+368,184,Fries,Sides,122,3,366
+369,185,Chicken Bucket,Chicken,368,2,736
+370,185,Chicken Bucket,Chicken,268,3,804
+371,186,Coke,Beverage,418,2,836
+372,186,Zinger Burger,Burger,247,3,741
+373,186,Coke,Beverage,272,1,272
+374,187,Ice Cream,Dessert,92,2,184
+375,187,Fries,Sides,226,3,678
+376,187,Fries,Sides,168,3,504
+377,188,Chicken Bucket,Chicken,101,3,303
+378,188,Zinger Burger,Burger,407,3,1221
+379,188,Pepsi,Beverage,193,3,579
+380,189,Fries,Sides,289,1,289
+381,189,Zinger Burger,Burger,91,2,182
+382,189,Coke,Beverage,410,1,410
+383,190,Veg Burger,Burger,176,1,176
+384,190,Zinger Burger,Burger,413,1,413
+385,190,Pepsi,Beverage,138,1,138
+386,191,Chicken Bucket,Chicken,447,1,447
+387,191,Fries,Sides,293,1,293
+388,192,Chicken Bucket,Chicken,126,3,378
+389,192,Veg Burger,Burger,368,1,368
+390,192,Veg Burger,Burger,261,3,783
+391,193,Wrap,Wraps,93,3,279
+392,193,Fries,Sides,207,2,414
+393,193,Coke,Beverage,327,1,327
+394,194,Wrap,Wraps,281,1,281
+395,194,Zinger Burger,Burger,297,2,594
+396,195,Chicken Bucket,Chicken,96,2,192
+397,196,Chicken Bucket,Chicken,404,2,808
+398,196,Zinger Burger,Burger,161,2,322
+399,197,Zinger Burger,Burger,298,1,298
+400,198,Fries,Sides,345,2,690
+401,198,Zinger Burger,Burger,370,2,740
+402,198,Veg Burger,Burger,359,2,718
+403,199,Pepsi,Beverage,233,3,699
+404,199,Wrap,Wraps,374,3,1122
+405,200,Wrap,Wraps,309,3,927
+406,201,Pepsi,Beverage,227,3,681
+407,202,Wrap,Wraps,401,2,802
+408,202,Coke,Beverage,369,2,738
+409,202,Fries,Sides,213,3,639
+410,203,Chicken Bucket,Chicken,152,1,152
+411,203,Ice Cream,Dessert,127,2,254
+412,203,Zinger Burger,Burger,179,3,537
+413,204,Coke,Beverage,144,3,432
+414,204,Chicken Bucket,Chicken,345,1,345
+415,205,Fries,Sides,229,3,687
+416,205,Ice Cream,Dessert,327,2,654
+417,205,Veg Burger,Burger,177,2,354
+418,206,Coke,Beverage,363,1,363
+419,207,Coke,Beverage,147,3,441
+420,208,Zinger Burger,Burger,243,3,729
+421,209,Chicken Bucket,Chicken,152,1,152
+422,210,Chicken Bucket,Chicken,367,2,734
+423,210,Ice Cream,Dessert,245,1,245
+424,211,Chicken Bucket,Chicken,362,2,724
+425,211,Chicken Bucket,Chicken,323,3,969
+426,212,Wrap,Wraps,446,3,1338
+427,213,Fries,Sides,152,3,456
+428,214,Fries,Sides,327,1,327
+429,214,Fries,Sides,120,2,240
+430,215,Veg Burger,Burger,247,3,741
+431,215,Zinger Burger,Burger,324,3,972
+432,216,Ice Cream,Dessert,126,3,378
+433,216,Zinger Burger,Burger,445,1,445
+434,216,Fries,Sides,369,3,1107
+435,217,Chicken Bucket,Chicken,397,2,794
+436,218,Fries,Sides,95,2,190
+437,219,Ice Cream,Dessert,217,2,434
+438,219,Pepsi,Beverage,206,3,618
+439,220,Wrap,Wraps,156,2,312
+440,220,Fries,Sides,437,1,437
+441,220,Wrap,Wraps,170,2,340
+442,221,Pepsi,Beverage,288,1,288
+443,221,Coke,Beverage,186,1,186
+444,221,Wrap,Wraps,448,1,448
+445,222,Coke,Beverage,216,2,432
+446,222,Ice Cream,Dessert,266,1,266
+447,223,Coke,Beverage,137,3,411
+448,223,Fries,Sides,267,2,534
+449,224,Ice Cream,Dessert,193,3,579
+450,224,Coke,Beverage,414,2,828
+451,225,Wrap,Wraps,229,3,687
+452,225,Chicken Bucket,Chicken,264,1,264
+453,226,Ice Cream,Dessert,214,1,214
+454,226,Fries,Sides,389,3,1167
+455,227,Wrap,Wraps,82,2,164
+456,228,Chicken Bucket,Chicken,200,1,200
+457,228,Pepsi,Beverage,117,1,117
+458,229,Coke,Beverage,281,1,281
+459,230,Wrap,Wraps,188,3,564
+460,230,Veg Burger,Burger,162,3,486
+461,231,Zinger Burger,Burger,275,3,825
+462,232,Wrap,Wraps,232,1,232
+463,232,Coke,Beverage,398,2,796
+464,233,Coke,Beverage,390,2,780
+465,234,Ice Cream,Dessert,115,2,230
+466,234,Chicken Bucket,Chicken,256,2,512
+467,234,Chicken Bucket,Chicken,374,1,374
+468,235,Coke,Beverage,396,1,396
+469,236,Fries,Sides,188,3,564
+470,236,Wrap,Wraps,229,1,229
+471,237,Coke,Beverage,166,1,166
+472,237,Veg Burger,Burger,392,3,1176
+473,238,Zinger Burger,Burger,364,3,1092
+474,238,Coke,Beverage,166,1,166
+475,239,Veg Burger,Burger,191,3,573
+476,239,Coke,Beverage,326,1,326
+477,240,Coke,Beverage,213,2,426
+478,240,Pepsi,Beverage,229,2,458
+479,241,Pepsi,Beverage,288,2,576
+480,242,Ice Cream,Dessert,201,2,402
+481,242,Wrap,Wraps,194,2,388
+482,242,Zinger Burger,Burger,313,3,939
+483,243,Wrap,Wraps,326,3,978
+484,243,Pepsi,Beverage,206,3,618
+485,244,Wrap,Wraps,231,3,693
+486,244,Coke,Beverage,216,3,648
+487,245,Pepsi,Beverage,98,3,294
+488,246,Ice Cream,Dessert,254,2,508
+489,246,Zinger Burger,Burger,433,3,1299
+490,247,Pepsi,Beverage,172,3,516
+491,248,Ice Cream,Dessert,324,1,324
+492,249,Wrap,Wraps,207,2,414
+493,250,Wrap,Wraps,348,1,348
+494,251,Zinger Burger,Burger,86,2,172
+495,251,Zinger Burger,Burger,182,1,182
+496,252,Zinger Burger,Burger,141,1,141
+497,253,Zinger Burger,Burger,330,1,330
+498,253,Fries,Sides,286,1,286
+499,253,Coke,Beverage,361,1,361
+500,254,Veg Burger,Burger,152,1,152
+501,254,Coke,Beverage,165,1,165
+502,255,Veg Burger,Burger,197,1,197
+503,255,Wrap,Wraps,285,1,285
+504,255,Fries,Sides,226,2,452
+505,256,Coke,Beverage,350,3,1050
+506,257,Coke,Beverage,109,1,109
+507,257,Ice Cream,Dessert,225,3,675
+508,257,Ice Cream,Dessert,127,2,254
+509,258,Pepsi,Beverage,283,3,849
+510,258,Zinger Burger,Burger,439,3,1317
+511,259,Zinger Burger,Burger,252,2,504
+512,260,Coke,Beverage,124,2,248
+513,260,Wrap,Wraps,99,1,99
+514,261,Chicken Bucket,Chicken,300,3,900
+515,261,Fries,Sides,82,2,164
+516,261,Pepsi,Beverage,399,3,1197
+517,262,Pepsi,Beverage,211,3,633
+518,262,Veg Burger,Burger,410,2,820
+519,262,Wrap,Wraps,186,3,558
+520,263,Fries,Sides,141,1,141
+521,263,Zinger Burger,Burger,427,3,1281
+522,264,Coke,Beverage,286,1,286
+523,264,Veg Burger,Burger,215,1,215
+524,265,Chicken Bucket,Chicken,436,1,436
+525,265,Pepsi,Beverage,374,2,748
+526,266,Fries,Sides,290,1,290
+527,267,Wrap,Wraps,171,1,171
+528,267,Wrap,Wraps,299,2,598
+529,267,Coke,Beverage,294,3,882
+530,268,Coke,Beverage,143,2,286
+531,268,Veg Burger,Burger,324,2,648
+532,268,Pepsi,Beverage,411,2,822
+533,269,Coke,Beverage,346,2,692
+534,270,Zinger Burger,Burger,119,1,119
+535,270,Fries,Sides,173,2,346
+536,270,Veg Burger,Burger,217,3,651
+537,271,Ice Cream,Dessert,160,2,320
+538,271,Chicken Bucket,Chicken,257,3,771
+539,271,Chicken Bucket,Chicken,358,2,716
+540,272,Ice Cream,Dessert,448,2,896
+541,272,Pepsi,Beverage,318,3,954
+542,273,Fries,Sides,301,1,301
+543,273,Zinger Burger,Burger,252,1,252
+544,274,Pepsi,Beverage,348,3,1044
+545,274,Veg Burger,Burger,357,2,714
+546,275,Coke,Beverage,286,3,858
+547,275,Wrap,Wraps,405,2,810
+548,275,Coke,Beverage,419,1,419
+549,276,Coke,Beverage,142,2,284
+550,277,Coke,Beverage,175,3,525
+551,277,Wrap,Wraps,84,2,168
+552,278,Ice Cream,Dessert,296,2,592
+553,278,Fries,Sides,311,3,933
+554,279,Wrap,Wraps,183,1,183
+555,280,Chicken Bucket,Chicken,337,3,1011
+556,280,Zinger Burger,Burger,261,1,261
+557,281,Ice Cream,Dessert,106,3,318
+558,281,Coke,Beverage,366,3,1098
+559,282,Chicken Bucket,Chicken,444,3,1332
+560,283,Wrap,Wraps,222,1,222
+561,283,Coke,Beverage,448,3,1344
+562,283,Veg Burger,Burger,266,1,266
+563,284,Pepsi,Beverage,383,1,383
+564,284,Fries,Sides,165,2,330
+565,284,Wrap,Wraps,193,1,193
+566,285,Wrap,Wraps,335,3,1005
+567,285,Chicken Bucket,Chicken,434,3,1302
+568,285,Ice Cream,Dessert,276,1,276
+569,286,Chicken Bucket,Chicken,418,1,418
+570,287,Coke,Beverage,98,3,294
+571,288,Chicken Bucket,Chicken,140,3,420
+572,288,Zinger Burger,Burger,355,3,1065
+573,289,Ice Cream,Dessert,218,2,436
+574,289,Chicken Bucket,Chicken,262,1,262
+575,289,Wrap,Wraps,394,1,394
+576,290,Coke,Beverage,347,2,694
+577,290,Veg Burger,Burger,325,1,325
+578,290,Chicken Bucket,Chicken,245,1,245
+579,291,Fries,Sides,367,3,1101
+580,291,Coke,Beverage,234,3,702
+581,292,Chicken Bucket,Chicken,154,1,154
+582,292,Veg Burger,Burger,212,3,636
+583,293,Fries,Sides,424,1,424
+584,294,Chicken Bucket,Chicken,418,1,418
+585,294,Ice Cream,Dessert,406,1,406
+586,295,Ice Cream,Dessert,293,2,586
+587,295,Wrap,Wraps,288,1,288
+588,295,Pepsi,Beverage,221,2,442
+589,296,Ice Cream,Dessert,138,3,414
+590,296,Wrap,Wraps,347,2,694
+591,297,Pepsi,Beverage,210,2,420
+592,297,Pepsi,Beverage,92,1,92
+593,298,Coke,Beverage,309,2,618
+594,298,Veg Burger,Burger,105,3,315
+595,299,Pepsi,Beverage,227,1,227
+596,299,Ice Cream,Dessert,288,3,864
+597,299,Ice Cream,Dessert,397,3,1191
+598,300,Ice Cream,Dessert,124,3,372
+599,300,Wrap,Wraps,234,1,234
+600,300,Wrap,Wraps,167,3,501
+601,301,Fries,Sides,258,1,258
+602,302,Zinger Burger,Burger,318,3,954
+603,302,Wrap,Wraps,392,3,1176
+604,303,Coke,Beverage,301,2,602
+605,303,Veg Burger,Burger,310,1,310
+606,303,Wrap,Wraps,347,1,347
+607,304,Ice Cream,Dessert,377,2,754
+608,305,Fries,Sides,90,2,180
+609,306,Wrap,Wraps,443,2,886
+610,306,Chicken Bucket,Chicken,330,2,660
+611,307,Ice Cream,Dessert,131,3,393
+612,307,Coke,Beverage,163,3,489
+613,308,Pepsi,Beverage,375,3,1125
+614,309,Pepsi,Beverage,271,1,271
+615,309,Pepsi,Beverage,135,2,270
+616,309,Wrap,Wraps,107,1,107
+617,310,Coke,Beverage,115,1,115
+618,311,Pepsi,Beverage,83,3,249
+619,311,Chicken Bucket,Chicken,245,3,735
+620,312,Ice Cream,Dessert,357,2,714
+621,312,Wrap,Wraps,90,2,180
+622,312,Ice Cream,Dessert,269,1,269
+623,313,Chicken Bucket,Chicken,207,2,414
+624,313,Ice Cream,Dessert,434,2,868
+625,314,Zinger Burger,Burger,144,3,432
+626,314,Wrap,Wraps,392,3,1176
+627,314,Chicken Bucket,Chicken,260,2,520
+628,315,Pepsi,Beverage,168,2,336
+629,316,Veg Burger,Burger,185,3,555
+630,316,Wrap,Wraps,398,3,1194
+631,316,Wrap,Wraps,92,1,92
+632,317,Ice Cream,Dessert,227,2,454
+633,318,Coke,Beverage,161,1,161
+634,318,Ice Cream,Dessert,280,3,840
+635,318,Veg Burger,Burger,117,3,351
+636,319,Zinger Burger,Burger,306,2,612
+637,319,Ice Cream,Dessert,374,3,1122
+638,319,Zinger Burger,Burger,303,2,606
+639,320,Coke,Beverage,416,1,416
+640,321,Pepsi,Beverage,156,1,156
+641,322,Pepsi,Beverage,174,2,348
+642,322,Veg Burger,Burger,118,1,118
+643,323,Ice Cream,Dessert,266,2,532
+644,324,Pepsi,Beverage,199,1,199
+645,324,Pepsi,Beverage,210,1,210
+646,324,Pepsi,Beverage,305,2,610
+647,325,Pepsi,Beverage,279,3,837
+648,326,Zinger Burger,Burger,85,2,170
+649,326,Ice Cream,Dessert,178,2,356
+650,327,Ice Cream,Dessert,266,1,266
+651,327,Fries,Sides,366,1,366
+652,327,Wrap,Wraps,404,2,808
+653,328,Wrap,Wraps,366,2,732
+654,329,Chicken Bucket,Chicken,163,3,489
+655,330,Pepsi,Beverage,92,1,92
+656,330,Wrap,Wraps,193,1,193
+657,330,Veg Burger,Burger,284,1,284
+658,331,Veg Burger,Burger,352,2,704
+659,331,Ice Cream,Dessert,298,1,298
+660,332,Pepsi,Beverage,407,3,1221
+661,332,Chicken Bucket,Chicken,190,3,570
+662,332,Coke,Beverage,308,1,308
+663,333,Coke,Beverage,351,3,1053
+664,334,Pepsi,Beverage,289,3,867
+665,334,Zinger Burger,Burger,365,3,1095
+666,335,Ice Cream,Dessert,300,2,600
+667,336,Chicken Bucket,Chicken,348,3,1044
+668,336,Coke,Beverage,173,1,173
+669,337,Zinger Burger,Burger,195,3,585
+670,337,Zinger Burger,Burger,259,2,518
+671,337,Veg Burger,Burger,132,3,396
+672,338,Zinger Burger,Burger,392,1,392
+673,338,Pepsi,Beverage,446,1,446
+674,339,Fries,Sides,177,1,177
+675,339,Ice Cream,Dessert,350,1,350
+676,339,Coke,Beverage,151,3,453
+677,340,Veg Burger,Burger,400,3,1200
+678,340,Ice Cream,Dessert,121,2,242
+679,341,Fries,Sides,182,3,546
+680,341,Wrap,Wraps,352,1,352
+681,341,Ice Cream,Dessert,300,1,300
+682,342,Ice Cream,Dessert,135,2,270
+683,343,Chicken Bucket,Chicken,181,1,181
+684,343,Coke,Beverage,271,3,813
+685,344,Ice Cream,Dessert,312,1,312
+686,344,Fries,Sides,218,1,218
+687,345,Fries,Sides,142,3,426
+688,346,Veg Burger,Burger,352,2,704
+689,346,Fries,Sides,263,2,526
+690,346,Veg Burger,Burger,117,3,351
+691,347,Fries,Sides,323,2,646
+692,348,Zinger Burger,Burger,378,2,756
+693,348,Coke,Beverage,387,2,774
+694,349,Zinger Burger,Burger,307,3,921
+695,350,Fries,Sides,265,3,795
+696,350,Pepsi,Beverage,439,3,1317
+697,351,Chicken Bucket,Chicken,289,1,289
+698,352,Veg Burger,Burger,287,2,574
+699,352,Veg Burger,Burger,216,3,648
+700,352,Ice Cream,Dessert,263,3,789
+701,353,Pepsi,Beverage,316,1,316
+702,353,Wrap,Wraps,369,3,1107
+703,353,Chicken Bucket,Chicken,197,2,394
+704,354,Chicken Bucket,Chicken,439,2,878
+705,355,Fries,Sides,231,1,231
+706,355,Fries,Sides,362,1,362
+707,355,Wrap,Wraps,242,1,242
+708,356,Veg Burger,Burger,361,3,1083
+709,357,Wrap,Wraps,430,2,860
+710,357,Veg Burger,Burger,219,3,657
+711,358,Ice Cream,Dessert,262,1,262
+712,358,Pepsi,Beverage,168,2,336
+713,358,Pepsi,Beverage,228,1,228
+714,359,Veg Burger,Burger,293,1,293
+715,360,Coke,Beverage,373,1,373
+716,360,Wrap,Wraps,329,2,658
+717,361,Pepsi,Beverage,104,1,104
+718,361,Ice Cream,Dessert,149,1,149
+719,361,Fries,Sides,191,3,573
+720,362,Veg Burger,Burger,170,2,340
+721,362,Coke,Beverage,306,2,612
+722,362,Ice Cream,Dessert,230,3,690
+723,363,Chicken Bucket,Chicken,424,1,424
+724,363,Ice Cream,Dessert,282,1,282
+725,364,Chicken Bucket,Chicken,316,1,316
+726,365,Coke,Beverage,135,3,405
+727,365,Coke,Beverage,437,1,437
+728,365,Coke,Beverage,152,3,456
+729,366,Zinger Burger,Burger,439,3,1317
+730,366,Pepsi,Beverage,346,3,1038
+731,367,Coke,Beverage,299,2,598
+732,367,Pepsi,Beverage,182,3,546
+733,368,Coke,Beverage,263,3,789
+734,368,Chicken Bucket,Chicken,326,3,978
+735,369,Veg Burger,Burger,357,1,357
+736,370,Zinger Burger,Burger,400,1,400
+737,370,Wrap,Wraps,261,2,522
+738,370,Coke,Beverage,414,1,414
+739,371,Pepsi,Beverage,178,1,178
+740,371,Ice Cream,Dessert,87,2,174
+741,372,Zinger Burger,Burger,96,2,192
+742,372,Chicken Bucket,Chicken,220,1,220
+743,372,Pepsi,Beverage,416,2,832
+744,373,Pepsi,Beverage,242,2,484
+745,374,Wrap,Wraps,151,1,151
+746,374,Wrap,Wraps,389,1,389
+747,375,Coke,Beverage,320,3,960
+748,375,Coke,Beverage,242,2,484
+749,375,Coke,Beverage,137,1,137
+750,376,Zinger Burger,Burger,105,3,315
+751,376,Coke,Beverage,99,2,198
+752,376,Pepsi,Beverage,138,2,276
+753,377,Veg Burger,Burger,352,1,352
+754,377,Pepsi,Beverage,92,3,276
+755,378,Wrap,Wraps,98,3,294
+756,378,Fries,Sides,318,3,954
+757,378,Zinger Burger,Burger,179,3,537
+758,379,Ice Cream,Dessert,123,1,123
+759,379,Coke,Beverage,224,3,672
+760,380,Chicken Bucket,Chicken,144,3,432
+761,380,Ice Cream,Dessert,243,1,243
+762,380,Pepsi,Beverage,393,2,786
+763,381,Ice Cream,Dessert,318,2,636
+764,382,Ice Cream,Dessert,299,2,598
+765,382,Veg Burger,Burger,425,1,425
+766,382,Chicken Bucket,Chicken,366,3,1098
+767,383,Ice Cream,Dessert,359,3,1077
+768,383,Fries,Sides,238,1,238
+769,384,Coke,Beverage,343,3,1029
+770,384,Ice Cream,Dessert,443,3,1329
+771,384,Wrap,Wraps,204,1,204
+772,385,Pepsi,Beverage,309,2,618
+773,385,Chicken Bucket,Chicken,276,1,276
+774,385,Coke,Beverage,139,2,278
+775,386,Pepsi,Beverage,252,3,756
+776,386,Coke,Beverage,429,2,858
+777,386,Ice Cream,Dessert,201,1,201
+778,387,Veg Burger,Burger,83,1,83
+779,387,Wrap,Wraps,85,2,170
+780,388,Wrap,Wraps,175,1,175
+781,388,Coke,Beverage,281,2,562
+782,389,Wrap,Wraps,402,2,804
+783,389,Fries,Sides,378,1,378
+784,389,Ice Cream,Dessert,416,1,416
+785,390,Coke,Beverage,293,2,586
+786,390,Fries,Sides,101,1,101
+787,390,Veg Burger,Burger,229,3,687
+788,391,Coke,Beverage,330,2,660
+789,391,Fries,Sides,395,3,1185
+790,391,Pepsi,Beverage,304,2,608
+791,392,Fries,Sides,312,1,312
+792,393,Chicken Bucket,Chicken,162,1,162
+793,393,Wrap,Wraps,148,3,444
+794,393,Veg Burger,Burger,335,3,1005
+795,394,Zinger Burger,Burger,316,3,948
+796,394,Zinger Burger,Burger,153,2,306
+797,395,Zinger Burger,Burger,393,2,786
+798,395,Wrap,Wraps,206,1,206
+799,396,Pepsi,Beverage,434,2,868
+800,397,Fries,Sides,90,1,90
+801,397,Coke,Beverage,293,1,293
+802,398,Wrap,Wraps,288,2,576
+803,398,Ice Cream,Dessert,337,1,337
+804,398,Chicken Bucket,Chicken,133,3,399
+805,399,Ice Cream,Dessert,320,3,960
+806,399,Chicken Bucket,Chicken,266,2,532
+807,399,Ice Cream,Dessert,341,1,341
+808,400,Wrap,Wraps,318,2,636
+809,400,Veg Burger,Burger,267,1,267
+810,400,Veg Burger,Burger,325,2,650
+811,401,Fries,Sides,362,3,1086
+812,401,Wrap,Wraps,151,3,453
+813,402,Wrap,Wraps,142,1,142
+814,402,Pepsi,Beverage,122,1,122
+815,402,Wrap,Wraps,332,1,332
+816,403,Ice Cream,Dessert,404,2,808
+817,404,Coke,Beverage,254,1,254
+818,404,Pepsi,Beverage,230,2,460
+819,405,Wrap,Wraps,259,1,259
+820,405,Coke,Beverage,364,3,1092
+821,406,Veg Burger,Burger,354,1,354
+822,406,Chicken Bucket,Chicken,100,1,100
+823,406,Fries,Sides,390,1,390
+824,407,Pepsi,Beverage,398,2,796
+825,408,Ice Cream,Dessert,351,2,702
+826,408,Coke,Beverage,435,2,870
+827,409,Fries,Sides,113,1,113
+828,410,Pepsi,Beverage,300,2,600
+829,410,Veg Burger,Burger,446,1,446
+830,410,Wrap,Wraps,117,2,234
+831,411,Wrap,Wraps,227,1,227
+832,411,Ice Cream,Dessert,129,2,258
+833,411,Coke,Beverage,422,2,844
+834,412,Coke,Beverage,357,2,714
+835,412,Veg Burger,Burger,379,2,758
+836,412,Coke,Beverage,377,1,377
+837,413,Wrap,Wraps,214,3,642
+838,413,Chicken Bucket,Chicken,238,3,714
+839,414,Coke,Beverage,268,3,804
+840,415,Wrap,Wraps,260,2,520
+841,415,Fries,Sides,217,2,434
+842,415,Chicken Bucket,Chicken,395,1,395
+843,416,Wrap,Wraps,324,3,972
+844,416,Fries,Sides,167,1,167
+845,417,Wrap,Wraps,420,3,1260
+846,417,Chicken Bucket,Chicken,446,2,892
+847,417,Veg Burger,Burger,174,1,174
+848,418,Fries,Sides,427,1,427
+849,419,Veg Burger,Burger,260,2,520
+850,419,Wrap,Wraps,185,3,555
+851,419,Chicken Bucket,Chicken,375,2,750
+852,420,Fries,Sides,274,3,822
+853,420,Chicken Bucket,Chicken,362,1,362
+854,420,Pepsi,Beverage,384,2,768
+855,421,Pepsi,Beverage,163,2,326
+856,421,Veg Burger,Burger,360,1,360
+857,422,Veg Burger,Burger,377,1,377
+858,422,Coke,Beverage,440,2,880
+859,423,Wrap,Wraps,325,1,325
+860,423,Pepsi,Beverage,264,2,528
+861,424,Fries,Sides,120,2,240
+862,424,Ice Cream,Dessert,168,2,336
+863,424,Veg Burger,Burger,152,2,304
+864,425,Chicken Bucket,Chicken,431,1,431
+865,426,Ice Cream,Dessert,355,3,1065
+866,426,Veg Burger,Burger,145,1,145
+867,427,Veg Burger,Burger,243,2,486
+868,427,Fries,Sides,238,1,238
+869,427,Pepsi,Beverage,273,1,273
+870,428,Veg Burger,Burger,180,1,180
+871,428,Wrap,Wraps,359,1,359
+872,428,Chicken Bucket,Chicken,189,2,378
+873,429,Chicken Bucket,Chicken,295,2,590
+874,430,Ice Cream,Dessert,393,2,786
+875,430,Ice Cream,Dessert,115,1,115
+876,431,Pepsi,Beverage,206,1,206
+877,431,Veg Burger,Burger,296,1,296
+878,432,Veg Burger,Burger,227,2,454
+879,433,Fries,Sides,230,1,230
+880,433,Fries,Sides,266,1,266
+881,434,Ice Cream,Dessert,322,2,644
+882,435,Wrap,Wraps,285,2,570
+883,435,Veg Burger,Burger,416,1,416
+884,435,Wrap,Wraps,221,1,221
+885,436,Pepsi,Beverage,367,3,1101
+886,436,Veg Burger,Burger,248,2,496
+887,436,Wrap,Wraps,123,2,246
+888,437,Coke,Beverage,362,3,1086
+889,438,Pepsi,Beverage,414,3,1242
+890,438,Zinger Burger,Burger,324,3,972
+891,438,Fries,Sides,352,3,1056
+892,439,Pepsi,Beverage,269,3,807
+893,439,Ice Cream,Dessert,330,3,990
+894,440,Zinger Burger,Burger,364,2,728
+895,441,Zinger Burger,Burger,174,2,348
+896,441,Chicken Bucket,Chicken,404,3,1212
+897,441,Zinger Burger,Burger,151,3,453
+898,442,Veg Burger,Burger,422,3,1266
+899,443,Wrap,Wraps,133,3,399
+900,443,Coke,Beverage,133,2,266
+901,443,Ice Cream,Dessert,178,2,356
+902,444,Zinger Burger,Burger,137,1,137
+903,444,Wrap,Wraps,208,1,208
+904,444,Chicken Bucket,Chicken,419,2,838
+905,445,Ice Cream,Dessert,240,3,720
+906,446,Coke,Beverage,443,1,443
+907,446,Veg Burger,Burger,152,3,456
+908,446,Veg Burger,Burger,322,2,644
+909,447,Pepsi,Beverage,252,3,756
+910,447,Coke,Beverage,267,1,267
+911,447,Pepsi,Beverage,131,3,393
+912,448,Coke,Beverage,421,3,1263
+913,449,Ice Cream,Dessert,279,2,558
+914,449,Chicken Bucket,Chicken,319,3,957
+915,449,Chicken Bucket,Chicken,378,1,378
+916,450,Veg Burger,Burger,290,3,870
+917,451,Veg Burger,Burger,286,3,858
+918,451,Wrap,Wraps,346,2,692
+919,451,Chicken Bucket,Chicken,90,2,180
+920,452,Fries,Sides,354,2,708
+921,452,Pepsi,Beverage,309,1,309
+922,453,Veg Burger,Burger,144,3,432
+923,453,Ice Cream,Dessert,407,3,1221
+924,454,Wrap,Wraps,342,3,1026
+925,454,Wrap,Wraps,396,1,396
+926,455,Pepsi,Beverage,445,3,1335
+927,455,Fries,Sides,196,1,196
+928,456,Coke,Beverage,167,1,167
+929,456,Coke,Beverage,168,1,168
+930,457,Pepsi,Beverage,195,2,390
+931,457,Veg Burger,Burger,154,1,154
+932,458,Pepsi,Beverage,201,3,603
+933,458,Veg Burger,Burger,294,1,294
+934,458,Wrap,Wraps,107,3,321
+935,459,Zinger Burger,Burger,105,1,105
+936,459,Pepsi,Beverage,108,3,324
+937,459,Zinger Burger,Burger,243,2,486
+938,460,Fries,Sides,365,1,365
+939,460,Fries,Sides,287,2,574
+940,461,Veg Burger,Burger,172,1,172
+941,461,Wrap,Wraps,189,1,189
+942,462,Pepsi,Beverage,185,3,555
+943,462,Wrap,Wraps,260,2,520
+944,462,Veg Burger,Burger,399,3,1197
+945,463,Chicken Bucket,Chicken,86,2,172
+946,464,Chicken Bucket,Chicken,248,2,496
+947,465,Zinger Burger,Burger,385,2,770
+948,465,Fries,Sides,387,1,387
+949,466,Veg Burger,Burger,267,2,534
+950,467,Veg Burger,Burger,297,1,297
+951,468,Pepsi,Beverage,257,1,257
+952,468,Coke,Beverage,370,1,370
+953,468,Ice Cream,Dessert,371,2,742
+954,469,Fries,Sides,362,2,724
+955,469,Zinger Burger,Burger,225,1,225
+956,469,Ice Cream,Dessert,434,3,1302
+957,470,Fries,Sides,110,1,110
+958,470,Zinger Burger,Burger,118,2,236
+959,470,Chicken Bucket,Chicken,118,1,118
+960,471,Pepsi,Beverage,357,3,1071
+961,471,Chicken Bucket,Chicken,187,2,374
+962,472,Chicken Bucket,Chicken,260,3,780
+963,472,Wrap,Wraps,332,1,332
+964,473,Chicken Bucket,Chicken,425,3,1275
+965,473,Chicken Bucket,Chicken,316,2,632
+966,473,Pepsi,Beverage,123,2,246
+967,474,Coke,Beverage,174,2,348
+968,474,Coke,Beverage,109,1,109
+969,474,Chicken Bucket,Chicken,112,2,224
+970,475,Veg Burger,Burger,197,2,394
+971,476,Wrap,Wraps,325,1,325
+972,476,Veg Burger,Burger,326,1,326
+973,476,Zinger Burger,Burger,314,2,628
+974,477,Wrap,Wraps,337,3,1011
+975,478,Veg Burger,Burger,353,3,1059
+976,479,Fries,Sides,289,2,578
+977,479,Coke,Beverage,265,1,265
+978,479,Veg Burger,Burger,174,2,348
+979,480,Veg Burger,Burger,289,1,289
+980,480,Chicken Bucket,Chicken,172,2,344
+981,480,Chicken Bucket,Chicken,251,3,753
+982,481,Chicken Bucket,Chicken,104,3,312
+983,481,Zinger Burger,Burger,164,3,492
+984,482,Ice Cream,Dessert,430,2,860
+985,482,Wrap,Wraps,303,3,909
+986,482,Wrap,Wraps,344,2,688
+987,483,Pepsi,Beverage,294,1,294
+988,484,Coke,Beverage,409,3,1227
+989,484,Wrap,Wraps,350,3,1050
+990,485,Fries,Sides,446,3,1338
+991,486,Chicken Bucket,Chicken,427,1,427
+992,486,Wrap,Wraps,114,2,228
+993,486,Veg Burger,Burger,190,2,380
+994,487,Coke,Beverage,226,3,678
+995,488,Chicken Bucket,Chicken,419,3,1257
+996,488,Veg Burger,Burger,258,1,258
+997,488,Fries,Sides,124,3,372
+998,489,Fries,Sides,88,2,176
+999,490,Coke,Beverage,406,3,1218
+1000,491,Pepsi,Beverage,305,1,305
+1001,491,Pepsi,Beverage,192,1,192
+1002,491,Veg Burger,Burger,80,2,160
+1003,492,Ice Cream,Dessert,189,1,189
+1004,492,Zinger Burger,Burger,385,1,385
+1005,492,Zinger Burger,Burger,267,2,534
+1006,493,Ice Cream,Dessert,413,1,413
+1007,493,Veg Burger,Burger,358,3,1074
+1008,494,Wrap,Wraps,104,2,208
+1009,494,Pepsi,Beverage,220,3,660
+1010,495,Veg Burger,Burger,225,3,675
+1011,495,Veg Burger,Burger,398,1,398
+1012,496,Ice Cream,Dessert,234,3,702
+1013,496,Zinger Burger,Burger,311,1,311
+1014,496,Veg Burger,Burger,381,1,381
+1015,497,Ice Cream,Dessert,402,2,804
+1016,497,Ice Cream,Dessert,85,3,255
+1017,498,Coke,Beverage,348,1,348
+1018,498,Zinger Burger,Burger,227,2,454
+1019,499,Wrap,Wraps,417,2,834
+1020,499,Chicken Bucket,Chicken,380,2,760
+1021,500,Wrap,Wraps,155,3,465
+1022,500,Coke,Beverage,193,3,579
+1023,500,Zinger Burger,Burger,282,3,846

@@ -1,0 +1,11 @@
+store_id,city,region,store_type
+1,Delhi,North,Standalone
+2,Mumbai,West,Mall
+3,Bangalore,South,Standalone
+4,Chennai,South,Standalone
+5,Hyderabad,South,Mall
+6,Pune,West,Mall
+7,Kolkata,East,Standalone
+8,Ahmedabad,West,Highway
+9,Jaipur,North,Standalone
+10,Chandigarh,North,Standalone
